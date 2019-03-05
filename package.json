@@ -88,7 +88,7 @@
   },
   "dependencies": {
     "hoist-non-react-statics": "^3.0.1",
-    "react-native-gesture-handler": "~1.0.14",
+    "react-native-gesture-handler": "^1.1.0",
     "react-native-safe-area-view": "^0.13.0",
     "react-native-screens": "^1.0.0 || ^1.0.0-alpha"
   }
